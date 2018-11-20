@@ -1,5 +1,6 @@
 package br.ucsal.GCM.UnitTest;
 
-public class CalculoFatorialUnitario {
-
+public class CalculoFatorialUnitario
+{
+	
 }
